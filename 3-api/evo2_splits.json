@@ -1,0 +1,11 @@
+{
+  "splits": [
+    {
+      "dataset": "jang1563/evo2-spaceflight-vep",
+      "config": "default",
+      "split": "train"
+    }
+  ],
+  "pending": [],
+  "failed": []
+}

@@ -1,0 +1,92 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "EventoAtualizadoAstronauta",
+  "description": "Contrato de dados sintéticos para simulação de eventos médicos e telemetria de astronautas em missão espacial.",
+  "type": "object",
+  "required": [
+    "evento_id",
+    "timestamp",
+    "astronauta_id",
+    "missao",
+    "is_simulado",
+    "sinais_vitais",
+    "ambiente",
+    "status_alerta"
+  ],
+  "properties": {
+    "evento_id": {
+      "type": "string",
+      "format": "uuid",
+      "description": "Identificador único do evento de telemetria."
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp ISO 8601 da coleta do evento."
+    },
+    "astronauta_id": {
+      "type": "string",
+      "description": "Identificador do astronauta simulado (ex: ASTRO-SIM-042)."
+    },
+    "missao": {
+      "type": "string",
+      "description": "Nome da missão (ex: ARTEMIS-III, ISS-EXP-71)."
+    },
+    "is_simulado": {
+      "type": "boolean",
+      "const": true,
+      "description": "OBRIGATÓRIO: Flag indicando que os dados biomédicos individuais são sintéticos/simulados em conformidade com as diretrizes de privacidade e restrições de dados reais da NASA."
+    },
+    "sinais_vitais": {
+      "type": "object",
+      "required": [
+        "frequencia_cardiaca_bpm",
+        "pressao_arterial_sistolica",
+        "pressao_arterial_diastolica",
+        "spo2_percent",
+        "frequencia_respiratoria_rpm",
+        "temperatura_corporal_c"
+      ],
+      "properties": {
+        "frequencia_cardiaca_bpm": { "type": "number", "minimum": 30, "maximum": 240 },
+        "pressao_arterial_sistolica": { "type": "number", "minimum": 60, "maximum": 220 },
+        "pressao_arterial_diastolica": { "type": "number", "minimum": 40, "maximum": 140 },
+        "spo2_percent": { "type": "number", "minimum": 70, "maximum": 100 },
+        "frequencia_respiratoria_rpm": { "type": "number", "minimum": 5, "maximum": 50 },
+        "temperatura_corporal_c": { "type": "number", "minimum": 34.0, "maximum": 42.0 },
+        "variabilidade_fc_rmssd_ms": { "type": "number" }
+      }
+    },
+    "ambiente": {
+      "type": "object",
+      "required": [
+        "atividade",
+        "pressao_cabine_kpa",
+        "radiacao_taxa_microgy_h",
+        "radiacao_acumulada_mgy"
+      ],
+      "properties": {
+        "atividade": {
+          "type": "string",
+          "enum": ["NOMINAL_INTRAVEICULAR", "EVA_ATIVIDADE_EXTRAVEICULAR", "EXERCICIO_FISICO", "SONO_REPOUSO", "EMERGENCIA"]
+        },
+        "pressao_cabine_kpa": { "type": "number" },
+        "fracao_o2_percent": { "type": "number" },
+        "concentracao_co2_ppm": { "type": "number" },
+        "radiacao_taxa_microgy_h": { "type": "number" },
+        "radiacao_acumulada_mgy": { "type": "number" },
+        "microgravidade_g": { "type": "number", "default": 0.0 }
+      }
+    },
+    "status_alerta": {
+      "type": "string",
+      "enum": ["VERDE_NOMINAL", "AMARELO_ATENCAO", "LARANJA_ALERTA", "VERMELHO_CRITICO"],
+      "description": "Nível de alerta clínico inferido pelo sistema de IA."
+    },
+    "observacoes_clinicas": {
+      "type": "string",
+      "description": "Sintomas reportados ou anotações clínicas geradas pelo módulo assistente."
+    }
+  }
+}
+

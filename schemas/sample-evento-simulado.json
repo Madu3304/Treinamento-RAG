@@ -1,0 +1,28 @@
+{
+  "evento_id": "c7a84e21-5f33-4b6e-8219-91823e592ab1",
+  "timestamp": "2026-11-16T17:00:00Z",
+  "astronauta_id": "ASTRO-SIM-042",
+  "missao": "ARTEMIS-III",
+  "is_simulado": true,
+  "sinais_vitais": {
+    "frequencia_cardiaca_bpm": 84.0,
+    "pressao_arterial_sistolica": 118.0,
+    "pressao_arterial_diastolica": 76.0,
+    "spo2_percent": 98.2,
+    "frequencia_respiratoria_rpm": 14.0,
+    "temperatura_corporal_c": 36.7,
+    "variabilidade_fc_rmssd_ms": 42.5
+  },
+  "ambiente": {
+    "atividade": "EVA_ATIVIDADE_EXTRAVEICULAR",
+    "pressao_cabine_kpa": 101.3,
+    "fracao_o2_percent": 21.0,
+    "concentracao_co2_ppm": 450.0,
+    "radiacao_taxa_microgy_h": 28.5,
+    "radiacao_acumulada_mgy": 14.2,
+    "microgravidade_g": 0.166
+  },
+  "status_alerta": "VERDE_NOMINAL",
+  "observacoes_clinicas": "Parâmetros hemodinâmicos e ventilatórios estáveis durante atividade extraveicular na superfície lunar simulada."
+}
+

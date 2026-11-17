@@ -1,0 +1,8 @@
+# NASA Astronaut Occupational Surveillance Program and Lifetime Surveillance of Astronaut Health, LSAH, Astronaut Exposures and Risk in the Terrestrial and Spaceflight Environment
+
+## Abstract
+
+**Authors:** Sean R. Keprta, William Tarver, Mary Van Baalen, Torin McCoy  
+**Affiliation:** National Aeronautics and Space Administration, Johnson Space Center, Houston, Texas.
+
+United States Astronauts have a very unique occupational exposure profile. In order to understand these risks and properly address them, the National Aeronautics and Atmospheric Administration, NASA, originally created the Longitudinal Study of Astronaut Health, LSAH. The first LSAH was designed to address a variety of needs regarding astronaut health and included a 3 to 1 terrestrial control population in order to compare United States "earth normal" disease and aging to that of a microgravity exposed astronaut. Over the years that program has been modified, now termed Lifetime Surveillance of Astronaut Health, still LSAH. Astronaut spaceflight exposures have also changed, with the move from short duration shuttle flights to long duration stays on international space station and considerable terrestrial training activities. This new LSAH incorporates more of an occupational health and medicine model to the study of occupationally exposed astronauts. The presentation outlines the baseline exposures and monitoring of the astronaut population to exposures, both terrestrial, and in space.

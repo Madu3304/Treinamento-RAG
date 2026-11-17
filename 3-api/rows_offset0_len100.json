@@ -1,0 +1,1797 @@
+{
+  "features": [
+    {
+      "feature_idx": 0,
+      "name": "wikidata_id",
+      "type": {
+        "dtype": "large_string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 1,
+      "name": "name",
+      "type": {
+        "dtype": "large_string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 2,
+      "name": "birth_date",
+      "type": {
+        "dtype": "large_string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 3,
+      "name": "death_date",
+      "type": {
+        "dtype": "large_string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 4,
+      "name": "sex",
+      "type": {
+        "dtype": "large_string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 5,
+      "name": "nationality",
+      "type": {
+        "dtype": "large_string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 6,
+      "name": "employers",
+      "type": {
+        "dtype": "large_string",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 7,
+      "name": "num_flights",
+      "type": {
+        "dtype": "int64",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 8,
+      "name": "time_in_space_min",
+      "type": {
+        "dtype": "float64",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 9,
+      "name": "birth_year",
+      "type": {
+        "dtype": "int64",
+        "_type": "Value"
+      }
+    },
+    {
+      "feature_idx": 10,
+      "name": "time_in_space_hours",
+      "type": {
+        "dtype": "float64",
+        "_type": "Value"
+      }
+    }
+  ],
+  "rows": [
+    {
+      "row_idx": 0,
+      "row": {
+        "wikidata_id": "Q77349",
+        "name": "Abdul Ahad Mohmand",
+        "birth_date": "1959-01-01",
+        "death_date": "2026-06-21",
+        "sex": "male",
+        "nationality": "Democratic Republic of Afghanistan",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 12746.0,
+        "birth_year": 1959,
+        "time_in_space_hours": 212.4
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 1,
+      "row": {
+        "wikidata_id": "Q4666165",
+        "name": "Abdulmohsen Al-Bassam",
+        "birth_date": "1948-12-12",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Saudi Arabia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 0.0,
+        "birth_year": 1948,
+        "time_in_space_hours": 0.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 2,
+      "row": {
+        "wikidata_id": "Q136358206",
+        "name": "Adam Fuhrmann",
+        "birth_date": "1989-10-19",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1989,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 3,
+      "row": {
+        "wikidata_id": "Q140166905",
+        "name": "Adrianos Golemis",
+        "birth_date": "1987-01-01",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Greece",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1987,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 4,
+      "row": {
+        "wikidata_id": "Q124670654",
+        "name": "Ajit Krishnan",
+        "birth_date": "1982-04-19",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "India",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1982,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 5,
+      "row": {
+        "wikidata_id": "Q375641",
+        "name": "Akihiko Hoshide",
+        "birth_date": "1968-12-28",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Japan",
+        "employers": "Japan Aerospace Exploration Agency; National Space Development Agency",
+        "num_flights": 0,
+        "time_in_space_min": 490270.0,
+        "birth_year": 1968,
+        "time_in_space_hours": 8171.2
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 6,
+      "row": {
+        "wikidata_id": "Q310924",
+        "name": "Alan Bean",
+        "birth_date": "1932-03-15",
+        "death_date": "2018-05-26",
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration",
+        "num_flights": 0,
+        "time_in_space_min": 100305.0,
+        "birth_year": 1932,
+        "time_in_space_hours": 1671.8
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 7,
+      "row": {
+        "wikidata_id": "Q15197198",
+        "name": "Alan Eugene Johnston",
+        "birth_date": "1962-12-07",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1962,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 8,
+      "row": {
+        "wikidata_id": "Q362220",
+        "name": "Alan G. Poindexter",
+        "birth_date": "1961-11-05",
+        "death_date": "2012-07-01",
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration; Naval Postgraduate School",
+        "num_flights": 0,
+        "time_in_space_min": 40149.0,
+        "birth_year": 1961,
+        "time_in_space_hours": 669.2
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 9,
+      "row": {
+        "wikidata_id": "Q174979",
+        "name": "Alan Shepard",
+        "birth_date": "1923-11-18",
+        "death_date": "1998-07-21",
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration",
+        "num_flights": 0,
+        "time_in_space_min": 13017.0,
+        "birth_year": 1923,
+        "time_in_space_hours": 217.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 10,
+      "row": {
+        "wikidata_id": "Q2036814",
+        "name": "Albert Sacco",
+        "birth_date": "1949-05-03",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "Northeastern University; Worcester Polytechnic Institute; Texas Tech University",
+        "num_flights": 0,
+        "time_in_space_min": 22894.0,
+        "birth_year": 1949,
+        "time_in_space_hours": 381.6
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 11,
+      "row": {
+        "wikidata_id": "Q955842",
+        "name": "Albert Scott Crossfield",
+        "birth_date": "1921-10-02",
+        "death_date": "2006-04-19",
+        "sex": "male",
+        "nationality": "United States",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1921,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 12,
+      "row": {
+        "wikidata_id": "Q446233",
+        "name": "Aleksandr Aleksandrovich Volkov",
+        "birth_date": "1948-05-27",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 563752.0,
+        "birth_year": 1948,
+        "time_in_space_hours": 9395.9
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 13,
+      "row": {
+        "wikidata_id": "Q18236847",
+        "name": "Aleksandr Borodin",
+        "birth_date": "1953-03-03",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1953,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 14,
+      "row": {
+        "wikidata_id": "Q446531",
+        "name": "Aleksandr Ivanchenkov",
+        "birth_date": "1940-09-28",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": "S.P. Korolev Rocket and Space Corporation Energia",
+        "num_flights": 0,
+        "time_in_space_min": 212437.0,
+        "birth_year": 1940,
+        "time_in_space_hours": 3540.6
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 15,
+      "row": {
+        "wikidata_id": "Q345288",
+        "name": "Aleksandr Kaleri",
+        "birth_date": "1956-05-13",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": "Moscow Institute of Physics and Technology",
+        "num_flights": 0,
+        "time_in_space_min": 1107757.0,
+        "birth_year": 1956,
+        "time_in_space_hours": 18462.6
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 16,
+      "row": {
+        "wikidata_id": "Q708452",
+        "name": "Aleksandr Laveykin",
+        "birth_date": "1951-04-21",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 250765.0,
+        "birth_year": 1951,
+        "time_in_space_hours": 4179.4
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 17,
+      "row": {
+        "wikidata_id": "Q620632",
+        "name": "Aleksandr Lazutkin",
+        "birth_date": "1957-10-30",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 266287.0,
+        "birth_year": 1957,
+        "time_in_space_hours": 4438.1
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 18,
+      "row": {
+        "wikidata_id": "Q725659",
+        "name": "Aleksandr Nikolayevich Balandin",
+        "birth_date": "1953-07-30",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 257837.0,
+        "birth_year": 1953,
+        "time_in_space_hours": 4297.3
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 19,
+      "row": {
+        "wikidata_id": "Q444299",
+        "name": "Aleksandr Panayotov Aleksandrov",
+        "birth_date": "1951-12-01",
+        "death_date": "2026-07-10",
+        "sex": "male",
+        "nationality": "Bulgaria",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 14170.0,
+        "birth_year": 1951,
+        "time_in_space_hours": 236.2
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 20,
+      "row": {
+        "wikidata_id": "Q466483",
+        "name": "Aleksandr Pavlovich Aleksandrov",
+        "birth_date": "1943-02-20",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": "S.P. Korolev Rocket and Space Corporation Energia",
+        "num_flights": 0,
+        "time_in_space_min": 446042.0,
+        "birth_year": 1943,
+        "time_in_space_hours": 7434.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 21,
+      "row": {
+        "wikidata_id": "Q711010",
+        "name": "Aleksandr Poleshchuk",
+        "birth_date": "1953-10-30",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 257803.0,
+        "birth_year": 1953,
+        "time_in_space_hours": 4296.7
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 22,
+      "row": {
+        "wikidata_id": "Q928034",
+        "name": "Aleksandr Samokutyayev",
+        "birth_date": "1970-03-13",
+        "death_date": "2026-06-17",
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 28639500.0,
+        "birth_year": 1970,
+        "time_in_space_hours": 477325.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 23,
+      "row": {
+        "wikidata_id": "Q362819",
+        "name": "Aleksandr Serebrov",
+        "birth_date": "1944-02-15",
+        "death_date": "2013-11-12",
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": "Moscow Institute of Physics and Technology",
+        "num_flights": 0,
+        "time_in_space_min": 537052.0,
+        "birth_year": 1944,
+        "time_in_space_hours": 8950.9
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 24,
+      "row": {
+        "wikidata_id": "Q555679",
+        "name": "Aleksandr Skvortsov",
+        "birth_date": "1966-05-06",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 497185.0,
+        "birth_year": 1966,
+        "time_in_space_hours": 8286.4
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 25,
+      "row": {
+        "wikidata_id": "Q221615",
+        "name": "Aleksandr Viktorenko",
+        "birth_date": "1947-03-29",
+        "death_date": "2023-08-10",
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 717213.0,
+        "birth_year": 1947,
+        "time_in_space_hours": 11953.6
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 26,
+      "row": {
+        "wikidata_id": "Q465748",
+        "name": "Aleksei Gubarev",
+        "birth_date": "1931-03-29",
+        "death_date": "2015-02-21",
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 53976.0,
+        "birth_year": 1931,
+        "time_in_space_hours": 899.6
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 27,
+      "row": {
+        "wikidata_id": "Q381541",
+        "name": "Aleksei Yeliseyev",
+        "birth_date": "1934-07-13",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": "S.P. Korolev Rocket and Space Corporation Energia",
+        "num_flights": 0,
+        "time_in_space_min": 12860.0,
+        "birth_year": 1934,
+        "time_in_space_hours": 214.3
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 28,
+      "row": {
+        "wikidata_id": "Q50379793",
+        "name": "Aleksej Homenčuk",
+        "birth_date": "1975-01-07",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1975,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 29,
+      "row": {
+        "wikidata_id": "Q9601011",
+        "name": "Aleksey Boroday",
+        "birth_date": "1947-07-28",
+        "death_date": "2024-08-01",
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1947,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 30,
+      "row": {
+        "wikidata_id": "Q4715991",
+        "name": "Aleksey Ovchinin",
+        "birth_date": "1971-09-28",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": "Roscosmos State Corporation",
+        "num_flights": 0,
+        "time_in_space_min": 857067.0,
+        "birth_year": 1971,
+        "time_in_space_hours": 14284.4
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 31,
+      "row": {
+        "wikidata_id": "Q71248",
+        "name": "Alexander Gerst",
+        "birth_date": "1976-05-03",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Germany",
+        "employers": "European Space Agency",
+        "num_flights": 0,
+        "time_in_space_min": 521390.0,
+        "birth_year": 1976,
+        "time_in_space_hours": 8689.8
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 32,
+      "row": {
+        "wikidata_id": "Q109490394",
+        "name": "Alexander Grebenkin",
+        "birth_date": "1982-07-15",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 338615.0,
+        "birth_year": 1982,
+        "time_in_space_hours": 5643.6
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 33,
+      "row": {
+        "wikidata_id": "Q17593757",
+        "name": "Alexander Jabloncev",
+        "birth_date": "1955-04-03",
+        "death_date": "2012-05-09",
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 0.0,
+        "birth_year": 1955,
+        "time_in_space_hours": 0.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 34,
+      "row": {
+        "wikidata_id": "Q2655329",
+        "name": "Alexander Misurkin",
+        "birth_date": "1977-09-23",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 29919840.0,
+        "birth_year": 1977,
+        "time_in_space_hours": 498664.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 35,
+      "row": {
+        "wikidata_id": "Q15222587",
+        "name": "Alexander William Dunlap",
+        "birth_date": "1960-07-15",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1960,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 36,
+      "row": {
+        "wikidata_id": "Q154269",
+        "name": "Alexey Leonov",
+        "birth_date": "1934-05-30",
+        "death_date": "2019-10-11",
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 10112.0,
+        "birth_year": 1934,
+        "time_in_space_hours": 168.5
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 37,
+      "row": {
+        "wikidata_id": "Q109490367",
+        "name": "Alexey Zubritsky",
+        "birth_date": "1992-08-22",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": "Roscosmos State Corporation",
+        "num_flights": 0,
+        "time_in_space_min": 352756.0,
+        "birth_year": 1992,
+        "time_in_space_hours": 5879.3
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 38,
+      "row": {
+        "wikidata_id": "Q115388013",
+        "name": "Aleš Svoboda",
+        "birth_date": "1986-06-19",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Czech Republic",
+        "employers": "European Space Agency; Czech Air Force",
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1986,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 39,
+      "row": {
+        "wikidata_id": "Q539385",
+        "name": "Alfred Worden",
+        "birth_date": "1932-02-07",
+        "death_date": "2020-03-18",
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration",
+        "num_flights": 0,
+        "time_in_space_min": 17712.0,
+        "birth_year": 1932,
+        "time_in_space_hours": 295.2
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 40,
+      "row": {
+        "wikidata_id": "Q116786187",
+        "name": "Ali AlGhamdi",
+        "birth_date": "1992-01-01",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Saudi Arabia",
+        "employers": "Royal Saudi Air Force",
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1992,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 41,
+      "row": {
+        "wikidata_id": "Q116765522",
+        "name": "Ali AlQarni",
+        "birth_date": "1992-03-01",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Saudi Arabia",
+        "employers": "Royal Saudi Air Force",
+        "num_flights": 0,
+        "time_in_space_min": 13286.0,
+        "birth_year": 1992,
+        "time_in_space_hours": 221.4
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 42,
+      "row": {
+        "wikidata_id": "Q118093594",
+        "name": "Alper Gezeravcı",
+        "birth_date": "1979-12-02",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Turkey",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 31180.0,
+        "birth_year": 1979,
+        "time_in_space_hours": 519.7
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 43,
+      "row": {
+        "wikidata_id": "Q643556",
+        "name": "Alvin Drew",
+        "birth_date": "1962-11-05",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 36780.0,
+        "birth_year": 1962,
+        "time_in_space_hours": 613.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 44,
+      "row": {
+        "wikidata_id": "Q98631581",
+        "name": "Amelie Schoenenwald",
+        "birth_date": "1989-10-05",
+        "death_date": null,
+        "sex": "female",
+        "nationality": "Germany",
+        "employers": "European Space Agency",
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1989,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 45,
+      "row": {
+        "wikidata_id": "Q118185981",
+        "name": "Anastasia Lenkova",
+        "birth_date": "1995-03-30",
+        "death_date": null,
+        "sex": "female",
+        "nationality": "Belarus",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1995,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 46,
+      "row": {
+        "wikidata_id": "Q487622",
+        "name": "Anatoli Ivanishin",
+        "birth_date": "1969-01-15",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 685721.0,
+        "birth_year": 1969,
+        "time_in_space_hours": 11428.7
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 47,
+      "row": {
+        "wikidata_id": "Q7258156",
+        "name": "Anatoli Kartashov",
+        "birth_date": "1932-08-25",
+        "death_date": "2005-12-11",
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1932,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 48,
+      "row": {
+        "wikidata_id": "Q488008",
+        "name": "Anatolii Levchenko",
+        "birth_date": "1941-05-05",
+        "death_date": "1988-08-06",
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 11398.0,
+        "birth_year": 1941,
+        "time_in_space_hours": 190.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 49,
+      "row": {
+        "wikidata_id": "Q487984",
+        "name": "Anatoly Artsebarsky",
+        "birth_date": "1956-09-09",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 208281.0,
+        "birth_year": 1956,
+        "time_in_space_hours": 3471.4
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 50,
+      "row": {
+        "wikidata_id": "Q465724",
+        "name": "Anatoly Berezovoy",
+        "birth_date": "1942-04-11",
+        "death_date": "2014-09-20",
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 304384.0,
+        "birth_year": 1942,
+        "time_in_space_hours": 5073.1
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 51,
+      "row": {
+        "wikidata_id": "Q488043",
+        "name": "Anatoly Filipchenko",
+        "birth_date": "1928-02-26",
+        "death_date": "2022-08-07",
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 15663.0,
+        "birth_year": 1928,
+        "time_in_space_hours": 261.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 52,
+      "row": {
+        "wikidata_id": "Q28195006",
+        "name": "Anatoly Ivanovich Dedkovs",
+        "birth_date": "1944-07-24",
+        "death_date": "2016-09-16",
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1944,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 53,
+      "row": {
+        "wikidata_id": "Q11685717",
+        "name": "Anatoly Kuklin",
+        "birth_date": "1932-01-03",
+        "death_date": "2006-01-16",
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1932,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 54,
+      "row": {
+        "wikidata_id": "Q447311",
+        "name": "Anatoly Yakovlevich Solovyev",
+        "birth_date": "1948-01-16",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 937442.0,
+        "birth_year": 1948,
+        "time_in_space_hours": 15624.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 55,
+      "row": {
+        "wikidata_id": "Q109953238",
+        "name": "Andre Douglas",
+        "birth_date": "1985-12-11",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "United States Coast Guard; Applied Physics Laboratory",
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1985,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 56,
+      "row": {
+        "wikidata_id": "Q115388242",
+        "name": "Andrea Patassa",
+        "birth_date": "1991-01-01",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Italy",
+        "employers": "European Space Agency",
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1991,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 57,
+      "row": {
+        "wikidata_id": "Q499636",
+        "name": "Andreas Mogensen",
+        "birth_date": "1976-11-02",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Kingdom of Denmark",
+        "employers": "European Space Agency",
+        "num_flights": 0,
+        "time_in_space_min": 300873.0,
+        "birth_year": 1976,
+        "time_in_space_hours": 5014.6
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 58,
+      "row": {
+        "wikidata_id": "Q26255563",
+        "name": "Andrei Babkin",
+        "birth_date": "1969-04-21",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": "Roscosmos State Corporation",
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1969,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 59,
+      "row": {
+        "wikidata_id": "Q505530",
+        "name": "Andrew J. Feustel",
+        "birth_date": "1965-08-25",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration",
+        "num_flights": 0,
+        "time_in_space_min": 324555.0,
+        "birth_year": 1965,
+        "time_in_space_hours": 5409.2
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 60,
+      "row": {
+        "wikidata_id": "Q506349",
+        "name": "Andrew M. Allen",
+        "birth_date": "1955-08-04",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration",
+        "num_flights": 0,
+        "time_in_space_min": 54240.0,
+        "birth_year": 1955,
+        "time_in_space_hours": 904.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 61,
+      "row": {
+        "wikidata_id": "Q13500735",
+        "name": "Andrew R. Morgan",
+        "birth_date": "1976-02-05",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 391008.0,
+        "birth_year": 1976,
+        "time_in_space_hours": 6516.8
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 62,
+      "row": {
+        "wikidata_id": "Q502101",
+        "name": "Andrey Borisenko",
+        "birth_date": "1964-04-17",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 485816.0,
+        "birth_year": 1964,
+        "time_in_space_hours": 8096.9
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 63,
+      "row": {
+        "wikidata_id": "Q85867505",
+        "name": "Andrey Fedyayev",
+        "birth_date": "1981-02-26",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 267762.0,
+        "birth_year": 1981,
+        "time_in_space_hours": 4462.7
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 64,
+      "row": {
+        "wikidata_id": "Q312474",
+        "name": "Andriyan Nikolayev",
+        "birth_date": "1929-09-05",
+        "death_date": "2004-07-03",
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 31160.0,
+        "birth_year": 1929,
+        "time_in_space_hours": 519.3
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 65,
+      "row": {
+        "wikidata_id": "Q454649",
+        "name": "André Kuipers",
+        "birth_date": "1958-10-05",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Kingdom of the Netherlands",
+        "employers": "Vrije Universiteit Amsterdam",
+        "num_flights": 0,
+        "time_in_space_min": 277618.0,
+        "birth_year": 1958,
+        "time_in_space_hours": 4627.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 66,
+      "row": {
+        "wikidata_id": "Q507894",
+        "name": "Andy Thomas",
+        "birth_date": "1951-12-18",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration",
+        "num_flights": 0,
+        "time_in_space_min": 255434.0,
+        "birth_year": 1951,
+        "time_in_space_hours": 4257.2
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 67,
+      "row": {
+        "wikidata_id": "Q124670657",
+        "name": "Angad Pratap",
+        "birth_date": "1982-07-17",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "India",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1982,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 68,
+      "row": {
+        "wikidata_id": "Q13429632",
+        "name": "Angelo Vermeulen",
+        "birth_date": "1971-01-01",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Belgium",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1971,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 69,
+      "row": {
+        "wikidata_id": "Q109950137",
+        "name": "Anil Menon",
+        "birth_date": "1976-10-15",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "United States Air Force; National Aeronautics and Space Administration; SpaceX; California Hospital Medical Center; Cedars-Sinai Medical Center",
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1976,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 70,
+      "row": {
+        "wikidata_id": "Q18352451",
+        "name": "Anna Kikina",
+        "birth_date": "1984-08-27",
+        "death_date": null,
+        "sex": "female",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 226681.0,
+        "birth_year": 1984,
+        "time_in_space_hours": 3778.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 71,
+      "row": {
+        "wikidata_id": "Q237470",
+        "name": "Anna Lee Fisher",
+        "birth_date": "1949-08-24",
+        "death_date": null,
+        "sex": "female",
+        "nationality": "United States",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 11504.0,
+        "birth_year": 1949,
+        "time_in_space_hours": 191.7
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 72,
+      "row": {
+        "wikidata_id": "Q110916349",
+        "name": "Anna Menon",
+        "birth_date": "1985-12-24",
+        "death_date": null,
+        "sex": "female",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration; Texas A&M University; SpaceX; Duke University; Wyle Laboratories",
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1985,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 73,
+      "row": {
+        "wikidata_id": "Q13500570",
+        "name": "Anne McClain",
+        "birth_date": "1979-06-07",
+        "death_date": null,
+        "sex": "female",
+        "nationality": "United States",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 505915.0,
+        "birth_year": 1979,
+        "time_in_space_hours": 8431.9
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 74,
+      "row": {
+        "wikidata_id": "Q17519",
+        "name": "Anousheh Ansari",
+        "birth_date": "1966-09-12",
+        "death_date": null,
+        "sex": "female",
+        "nationality": "United States",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 15665.0,
+        "birth_year": 1966,
+        "time_in_space_hours": 261.1
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 75,
+      "row": {
+        "wikidata_id": "Q115388093",
+        "name": "Anthea Comellini",
+        "birth_date": "1992-03-31",
+        "death_date": null,
+        "sex": "female",
+        "nationality": "Italy",
+        "employers": "European Space Agency",
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1992,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 76,
+      "row": {
+        "wikidata_id": "Q986620",
+        "name": "Anthony Llewellyn",
+        "birth_date": "1933-04-22",
+        "death_date": "2013-07-02",
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration; Florida State University",
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1933,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 77,
+      "row": {
+        "wikidata_id": "Q574124",
+        "name": "Anthony W. England",
+        "birth_date": "1942-05-15",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration; United States Geological Survey; University of Michigan",
+        "num_flights": 0,
+        "time_in_space_min": 11445.0,
+        "birth_year": 1942,
+        "time_in_space_hours": 190.8
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 78,
+      "row": {
+        "wikidata_id": "Q592219",
+        "name": "Anton Shkaplerov",
+        "birth_date": "1972-02-20",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 1021444.0,
+        "birth_year": 1972,
+        "time_in_space_hours": 17024.1
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 79,
+      "row": {
+        "wikidata_id": "Q362902",
+        "name": "Arnaldo Tamayo Méndez",
+        "birth_date": "1942-01-29",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Cuba",
+        "employers": "Revolutionary Air and Air Defense Force",
+        "num_flights": 0,
+        "time_in_space_min": 11323.0,
+        "birth_year": 1942,
+        "time_in_space_hours": 188.7
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 80,
+      "row": {
+        "wikidata_id": "Q115328941",
+        "name": "Arnaud Prost",
+        "birth_date": "1992-11-06",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "France",
+        "employers": "European Space Agency; French Air Force; Direction générale de l'Armement",
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1992,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 81,
+      "row": {
+        "wikidata_id": "Q108800154",
+        "name": "Audrey Powers",
+        "birth_date": null,
+        "death_date": null,
+        "sex": "female",
+        "nationality": "United States",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": null,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 82,
+      "row": {
+        "wikidata_id": "Q4831087",
+        "name": "Aydyn Aimbetov",
+        "birth_date": "1972-07-27",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Kazakhstan",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 14174.0,
+        "birth_year": 1972,
+        "time_in_space_hours": 236.2
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 83,
+      "row": {
+        "wikidata_id": "Q116945702",
+        "name": "Ayu Yoneda",
+        "birth_date": "1995-01-01",
+        "death_date": null,
+        "sex": "female",
+        "nationality": "Japan",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1995,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 84,
+      "row": {
+        "wikidata_id": "Q235047",
+        "name": "Barbara Morgan",
+        "birth_date": "1951-11-28",
+        "death_date": null,
+        "sex": "female",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration; Boise State University",
+        "num_flights": 0,
+        "time_in_space_min": 18353.0,
+        "birth_year": 1951,
+        "time_in_space_hours": 305.9
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 85,
+      "row": {
+        "wikidata_id": "Q554409",
+        "name": "Barry E. Wilmore",
+        "birth_date": "1962-12-29",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration",
+        "num_flights": 0,
+        "time_in_space_min": 668642.0,
+        "birth_year": 1962,
+        "time_in_space_hours": 11144.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 86,
+      "row": {
+        "wikidata_id": "Q136365925",
+        "name": "Ben Bailey",
+        "birth_date": "1987-08-07",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1987,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 87,
+      "row": {
+        "wikidata_id": "Q822249",
+        "name": "Bernard A. Harris, Jr.",
+        "birth_date": "1956-06-26",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "National Math and Science Initiative; National Aeronautics and Space Administration",
+        "num_flights": 0,
+        "time_in_space_min": 26288.0,
+        "birth_year": 1956,
+        "time_in_space_hours": 438.1
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 88,
+      "row": {
+        "wikidata_id": "Q12865",
+        "name": "Bertalan Farkas",
+        "birth_date": "1949-08-02",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Hungary",
+        "employers": "Budapest University of Technology and Economics",
+        "num_flights": 0,
+        "time_in_space_min": 11325.0,
+        "birth_year": 1949,
+        "time_in_space_hours": 188.8
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 89,
+      "row": {
+        "wikidata_id": "Q19242",
+        "name": "Bill Anders",
+        "birth_date": "1933-10-17",
+        "death_date": "2024-06-07",
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration",
+        "num_flights": 0,
+        "time_in_space_min": 8820.0,
+        "birth_year": 1933,
+        "time_in_space_hours": 147.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 90,
+      "row": {
+        "wikidata_id": "Q1395516",
+        "name": "Bill Dana",
+        "birth_date": "1930-11-03",
+        "death_date": "2014-05-06",
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "Armstrong Flight Research Center",
+        "num_flights": 0,
+        "time_in_space_min": 0.0,
+        "birth_year": 1930,
+        "time_in_space_hours": 0.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 91,
+      "row": {
+        "wikidata_id": "Q358437",
+        "name": "Bill Nelson",
+        "birth_date": "1942-09-29",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration",
+        "num_flights": 0,
+        "time_in_space_min": 8763.0,
+        "birth_year": 1942,
+        "time_in_space_hours": 146.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 92,
+      "row": {
+        "wikidata_id": "Q725233",
+        "name": "Bjarni Tryggvason",
+        "birth_date": "1945-09-21",
+        "death_date": "2022-04-05",
+        "sex": "male",
+        "nationality": "Canada",
+        "employers": "University of Western Ontario",
+        "num_flights": 0,
+        "time_in_space_min": 18508.0,
+        "birth_year": 1945,
+        "time_in_space_hours": 308.5
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 93,
+      "row": {
+        "wikidata_id": "Q29618",
+        "name": "Bonnie J. Dunbar",
+        "birth_date": "1949-03-03",
+        "death_date": null,
+        "sex": "female",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration",
+        "num_flights": 0,
+        "time_in_space_min": 72504.0,
+        "birth_year": 1949,
+        "time_in_space_hours": 1208.4
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 94,
+      "row": {
+        "wikidata_id": "Q834956",
+        "name": "Boris Andreyev",
+        "birth_date": "1940-10-06",
+        "death_date": "2021-07-09",
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 0.0,
+        "birth_year": 1940,
+        "time_in_space_hours": 0.0
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 95,
+      "row": {
+        "wikidata_id": "Q352137",
+        "name": "Boris Borisovich Yegorov",
+        "birth_date": "1937-11-26",
+        "death_date": "1994-09-12",
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 1457.0,
+        "birth_year": 1937,
+        "time_in_space_hours": 24.3
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 96,
+      "row": {
+        "wikidata_id": "Q281604",
+        "name": "Boris Morukov",
+        "birth_date": "1950-10-01",
+        "death_date": "2015-01-01",
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 16992.0,
+        "birth_year": 1950,
+        "time_in_space_hours": 283.2
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 97,
+      "row": {
+        "wikidata_id": "Q9177589",
+        "name": "Boris Polakow",
+        "birth_date": "1938-05-10",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Soviet Union",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": null,
+        "birth_year": 1938,
+        "time_in_space_hours": null
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 98,
+      "row": {
+        "wikidata_id": "Q448538",
+        "name": "Boris Volynov",
+        "birth_date": "1934-12-18",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "Russia",
+        "employers": null,
+        "num_flights": 0,
+        "time_in_space_min": 75317.0,
+        "birth_year": 1934,
+        "time_in_space_hours": 1255.3
+      },
+      "truncated_cells": []
+    },
+    {
+      "row_idx": 99,
+      "row": {
+        "wikidata_id": "Q725339",
+        "name": "Brent W. Jett",
+        "birth_date": "1958-10-05",
+        "death_date": null,
+        "sex": "male",
+        "nationality": "United States",
+        "employers": "National Aeronautics and Space Administration",
+        "num_flights": 0,
+        "time_in_space_min": 60121.0,
+        "birth_year": 1958,
+        "time_in_space_hours": 1002.0
+      },
+      "truncated_cells": []
+    }
+  ],
+  "num_rows_total": 870,
+  "num_rows_per_page": 100,
+  "partial": false
+}
