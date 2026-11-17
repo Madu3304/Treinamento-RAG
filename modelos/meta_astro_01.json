@@ -1,0 +1,15 @@
+{
+  "tripulante_id": "ASTRO-01",
+  "features_ordem": [
+    "fc",
+    "pas",
+    "pad",
+    "glicose",
+    "temp",
+    "sono_h"
+  ],
+  "recall": 0.4,
+  "precision": 0.38461538461538464,
+  "f1": 0.39215686274509803,
+  "falsos_positivos": 16
+}

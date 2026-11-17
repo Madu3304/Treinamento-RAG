@@ -1,0 +1,23 @@
+artifact_path: file:C:/Users/User/Documents/PROJETOS/RAG/Treinamento-RAG/mlruns/1/models/m-3da83ea99c4c4ed58f2b4865b19ce244/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.14
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+    skops_trusted_types: null
+mlflow_version: 3.18.0
+model_id: m-3da83ea99c4c4ed58f2b4865b19ce244
+model_size_bytes: 2333943
+model_uuid: m-3da83ea99c4c4ed58f2b4865b19ce244
+prompts: null
+run_id: 6ce68ffbbe2e4d6cb808aea9d79ca247
+utc_time_created: '2026-11-17 02:50:08.629280'
